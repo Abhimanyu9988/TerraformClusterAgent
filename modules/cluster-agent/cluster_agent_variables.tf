@@ -14,12 +14,12 @@ variable "helmReleaseVersion" {
 
 variable "controllerInfo_username" {
   type = string
-  default = "abhitest"
+  default = "XXXXX"
 }
 
 variable "controllerInfo_password" {
   type = string
-  default = "Abhibajaj99!"
+  default = "XXXXX"
 }
 
 variable "createServiceAccount" {
