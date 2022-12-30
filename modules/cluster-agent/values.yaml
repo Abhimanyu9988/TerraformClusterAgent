@@ -1,5 +1,0 @@
-clusterAgent:
-  nsToMonitor:
-    - default
-    - appdynamics
-  
